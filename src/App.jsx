@@ -18,6 +18,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
+          <h1>Hello from app</h1>
           <p>
             Page has been open for <code>{count}</code> seconds.
           </p>
